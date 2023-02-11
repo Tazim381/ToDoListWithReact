@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  justify-content: center;
+  border: 2px solid rgb(26, 140, 158);
+  width: 30%;
+  padding:50px;
+  margin:auto;
+  margin-top: 50px;
+}
+
