@@ -1,3 +1,4 @@
+
 .App {
   display: flex;
   justify-content: center;
@@ -6,5 +7,9 @@
   padding:50px;
   margin:auto;
   margin-top: 50px;
+  box-shadow: -5px 5px 10px;
 }
 
+.checked-item{
+  text-decoration: line-through;
+}
