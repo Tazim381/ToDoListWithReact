@@ -14,11 +14,9 @@
   padding-top: 20px;
   border: 1px solid black;
 }
-
 .list button {
   color: white;
   background-color: rgb(154, 40, 40);
   border-style: none;
-  float:right;
+  float: right;
 }
-

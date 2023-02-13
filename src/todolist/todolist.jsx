@@ -27,8 +27,8 @@ function Todolist() {
   }
   return (
     <div className="all">
-       <div>
-       <h1>Simple Todolist</h1>
+      <div>
+        <h1>Simple Todolist</h1>
       </div>
       <ListInput addItem={addItem} submit={submit} />
 
