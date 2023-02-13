@@ -19,5 +19,8 @@
   color: white;
   background-color: rgb(154, 40, 40);
   border-style: none;
-  float:right;
+  float: right;
+}
+.checked-item {
+  text-decoration: line-through;
 }
